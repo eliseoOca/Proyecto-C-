@@ -1,0 +1,8 @@
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase 5 - Estructura de programacion secuensial\Clase 5 - Estructura de programacion secuensial\bin\Debug\Clase 5 - Estructura de programacion secuensial.exe.config
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase 5 - Estructura de programacion secuensial\Clase 5 - Estructura de programacion secuensial\bin\Debug\Clase 5 - Estructura de programacion secuensial.exe
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase 5 - Estructura de programacion secuensial\Clase 5 - Estructura de programacion secuensial\bin\Debug\Clase 5 - Estructura de programacion secuensial.pdb
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase 5 - Estructura de programacion secuensial\Clase 5 - Estructura de programacion secuensial\obj\Debug\Clase 5 - Estructura de programacion secuensial.csproj.AssemblyReference.cache
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase 5 - Estructura de programacion secuensial\Clase 5 - Estructura de programacion secuensial\obj\Debug\Clase 5 - Estructura de programacion secuensial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase 5 - Estructura de programacion secuensial\Clase 5 - Estructura de programacion secuensial\obj\Debug\Clase 5 - Estructura de programacion secuensial.csproj.CoreCompileInputs.cache
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase 5 - Estructura de programacion secuensial\Clase 5 - Estructura de programacion secuensial\obj\Debug\Clase 5 - Estructura de programacion secuensial.exe
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase 5 - Estructura de programacion secuensial\Clase 5 - Estructura de programacion secuensial\obj\Debug\Clase 5 - Estructura de programacion secuensial.pdb

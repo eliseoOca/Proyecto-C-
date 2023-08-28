@@ -1,0 +1,8 @@
+C:\Users\Ulises\Desktop\Proyecto Diego\PoryectoClase3CalculoSueldo\PoryectoClase3CalculoSueldo\bin\Debug\PoryectoClase3CalculoSueldo.exe.config
+C:\Users\Ulises\Desktop\Proyecto Diego\PoryectoClase3CalculoSueldo\PoryectoClase3CalculoSueldo\bin\Debug\PoryectoClase3CalculoSueldo.exe
+C:\Users\Ulises\Desktop\Proyecto Diego\PoryectoClase3CalculoSueldo\PoryectoClase3CalculoSueldo\bin\Debug\PoryectoClase3CalculoSueldo.pdb
+C:\Users\Ulises\Desktop\Proyecto Diego\PoryectoClase3CalculoSueldo\PoryectoClase3CalculoSueldo\obj\Debug\PoryectoClase3CalculoSueldo.csproj.AssemblyReference.cache
+C:\Users\Ulises\Desktop\Proyecto Diego\PoryectoClase3CalculoSueldo\PoryectoClase3CalculoSueldo\obj\Debug\PoryectoClase3CalculoSueldo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ulises\Desktop\Proyecto Diego\PoryectoClase3CalculoSueldo\PoryectoClase3CalculoSueldo\obj\Debug\PoryectoClase3CalculoSueldo.csproj.CoreCompileInputs.cache
+C:\Users\Ulises\Desktop\Proyecto Diego\PoryectoClase3CalculoSueldo\PoryectoClase3CalculoSueldo\obj\Debug\PoryectoClase3CalculoSueldo.exe
+C:\Users\Ulises\Desktop\Proyecto Diego\PoryectoClase3CalculoSueldo\PoryectoClase3CalculoSueldo\obj\Debug\PoryectoClase3CalculoSueldo.pdb

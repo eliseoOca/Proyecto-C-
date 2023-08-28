@@ -1,0 +1,8 @@
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase9_ejemplo3\Clase9_ejemplo3\bin\Debug\Clase9_ejemplo3.exe.config
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase9_ejemplo3\Clase9_ejemplo3\bin\Debug\Clase9_ejemplo3.exe
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase9_ejemplo3\Clase9_ejemplo3\bin\Debug\Clase9_ejemplo3.pdb
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase9_ejemplo3\Clase9_ejemplo3\obj\Debug\Clase9_ejemplo3.csproj.AssemblyReference.cache
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase9_ejemplo3\Clase9_ejemplo3\obj\Debug\Clase9_ejemplo3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase9_ejemplo3\Clase9_ejemplo3\obj\Debug\Clase9_ejemplo3.csproj.CoreCompileInputs.cache
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase9_ejemplo3\Clase9_ejemplo3\obj\Debug\Clase9_ejemplo3.exe
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase9_ejemplo3\Clase9_ejemplo3\obj\Debug\Clase9_ejemplo3.pdb

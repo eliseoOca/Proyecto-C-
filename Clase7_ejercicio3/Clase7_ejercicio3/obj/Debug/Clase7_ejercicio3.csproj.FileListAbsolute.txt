@@ -1,0 +1,8 @@
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase7_ejercicio3\Clase7_ejercicio3\bin\Debug\Clase7_ejercicio3.exe.config
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase7_ejercicio3\Clase7_ejercicio3\bin\Debug\Clase7_ejercicio3.exe
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase7_ejercicio3\Clase7_ejercicio3\bin\Debug\Clase7_ejercicio3.pdb
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase7_ejercicio3\Clase7_ejercicio3\obj\Debug\Clase7_ejercicio3.csproj.AssemblyReference.cache
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase7_ejercicio3\Clase7_ejercicio3\obj\Debug\Clase7_ejercicio3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase7_ejercicio3\Clase7_ejercicio3\obj\Debug\Clase7_ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase7_ejercicio3\Clase7_ejercicio3\obj\Debug\Clase7_ejercicio3.exe
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase7_ejercicio3\Clase7_ejercicio3\obj\Debug\Clase7_ejercicio3.pdb

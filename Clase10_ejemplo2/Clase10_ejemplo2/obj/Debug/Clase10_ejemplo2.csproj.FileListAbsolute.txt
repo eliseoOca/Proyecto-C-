@@ -1,0 +1,8 @@
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase10_ejemplo2\Clase10_ejemplo2\bin\Debug\Clase10_ejemplo2.exe.config
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase10_ejemplo2\Clase10_ejemplo2\bin\Debug\Clase10_ejemplo2.exe
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase10_ejemplo2\Clase10_ejemplo2\bin\Debug\Clase10_ejemplo2.pdb
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase10_ejemplo2\Clase10_ejemplo2\obj\Debug\Clase10_ejemplo2.csproj.AssemblyReference.cache
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase10_ejemplo2\Clase10_ejemplo2\obj\Debug\Clase10_ejemplo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase10_ejemplo2\Clase10_ejemplo2\obj\Debug\Clase10_ejemplo2.csproj.CoreCompileInputs.cache
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase10_ejemplo2\Clase10_ejemplo2\obj\Debug\Clase10_ejemplo2.exe
+C:\Users\Ulises\Desktop\Proyecto Diego\Clase10_ejemplo2\Clase10_ejemplo2\obj\Debug\Clase10_ejemplo2.pdb
